@@ -1,0 +1,11 @@
+C:\dev2\SIO\APITester\ApiTestingApp\bin\Debug\netcoreapp3.0\ApiTestingApp.exe
+C:\dev2\SIO\APITester\ApiTestingApp\bin\Debug\netcoreapp3.0\ApiTestingApp.deps.json
+C:\dev2\SIO\APITester\ApiTestingApp\bin\Debug\netcoreapp3.0\ApiTestingApp.runtimeconfig.json
+C:\dev2\SIO\APITester\ApiTestingApp\bin\Debug\netcoreapp3.0\ApiTestingApp.runtimeconfig.dev.json
+C:\dev2\SIO\APITester\ApiTestingApp\bin\Debug\netcoreapp3.0\ApiTestingApp.dll
+C:\dev2\SIO\APITester\ApiTestingApp\bin\Debug\netcoreapp3.0\ApiTestingApp.pdb
+C:\dev2\SIO\APITester\ApiTestingApp\obj\Debug\netcoreapp3.0\ApiTestingApp.csprojAssemblyReference.cache
+C:\dev2\SIO\APITester\ApiTestingApp\obj\Debug\netcoreapp3.0\ApiTestingApp.AssemblyInfoInputs.cache
+C:\dev2\SIO\APITester\ApiTestingApp\obj\Debug\netcoreapp3.0\ApiTestingApp.AssemblyInfo.cs
+C:\dev2\SIO\APITester\ApiTestingApp\obj\Debug\netcoreapp3.0\ApiTestingApp.dll
+C:\dev2\SIO\APITester\ApiTestingApp\obj\Debug\netcoreapp3.0\ApiTestingApp.pdb
